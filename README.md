@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -48,8 +49,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
