@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
