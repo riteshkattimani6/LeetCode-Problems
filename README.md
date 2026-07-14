@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 ## Merge Sort
 |  |
 | ------- |
