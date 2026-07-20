@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/riteshkattimani6/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
